@@ -1,0 +1,12 @@
+[objects]
+enemigos.obj
+jugador.obj
+pantalla.obj
+template.obj
+data.obj
+hdr.obj
+soundbank.obj
+c:\snesdev\pvsneslib\lib\crt0_snes.obj
+c:\snesdev\pvsneslib\lib\libc.obj
+c:\snesdev\pvsneslib\lib\libm.obj
+c:\snesdev\pvsneslib\lib\libtcc.obj
